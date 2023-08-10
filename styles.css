@@ -31,14 +31,13 @@ body{
 }
 .latest-news-section, .pictorial-news-section{
 	align-items:baseline;
-/* 	margin:0px; */
+	text-align:center;
 }
 li{
 	list-style-position:outside;
 }
 .mid-title{
 	text-align:center;
-/* 	font-size:; */
 	margin-bottom:0px;
 }
 .side-title{
