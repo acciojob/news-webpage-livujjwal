@@ -29,7 +29,7 @@ body{
 	hieght:150px;
 	padding:5px;
 }
-.side{
+.latest-news-section, .pictorial-news-section{
 	align-items:baseline;
 /* 	margin:0px; */
 }
