@@ -37,7 +37,8 @@ li{
 	list-style-position:outside;
 }
 .mid-title{
-	font-size:;
+	text-align:center;
+/* 	font-size:; */
 	margin-bottom:0px;
 }
 .side-title{
